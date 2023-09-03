@@ -1,0 +1,12 @@
+.heading {
+  color: red;
+}
+.flowers {
+  align-items: center;
+  align-items: space between;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
